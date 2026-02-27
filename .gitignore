@@ -1,0 +1,86 @@
+# Build
+bin/
+obj/
+out/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.user
+*.userosscache
+*.sln.docstates
+*.ncrunchproject
+*.ncrunchsolution
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+nuget.exe
+
+# Visual Studio
+.vs/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Publish
+publish/
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Docker (opcional: arquivos locais de override)
+# docker-compose.override.yml
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+[Tt]mp/
+[Tt]emp/
