@@ -1,6 +1,6 @@
 # POC: HTML para PDF com .NET 8 e wkhtmltopdf
 
-Aplicação de demonstração para o time: geração de PDF a partir de HTML com **cabeçalho e rodapé fixos** e **quebras de página coordenadas**, usando .NET 8 e wkhtmltopdf em container Alpine.
+Aplicação de demonstração: geração de PDF a partir de HTML com **cabeçalho e rodapé fixos** e **quebras de página coordenadas**, usando .NET 8 e wkhtmltopdf em container Alpine.
 
 ## Funcionalidades
 
