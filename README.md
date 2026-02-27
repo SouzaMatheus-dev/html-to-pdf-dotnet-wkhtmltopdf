@@ -121,7 +121,7 @@ No exemplo em `ContratoExemplo.cs` há um contrato com seções que começam em 
 - `ContratoExemplo.cs` – templates HTML de demonstração (cabeçalho, rodapé, corpo com quebras de página).
 - `Dockerfile` – base Alpine com aspnet:8.0 e wkhtmltopdf (surnet), timezone São Paulo, fontes e ICU.
 
-## Observações para o time
+## Observações
 
 - O wkhtmltopdf espera **HTML completo** (com `<!DOCTYPE html>`, `<head>`, `<body>`) nos arquivos de cabeçalho e rodapé.
 - Para produção, considere validar/sanitizar o HTML recebido e limitar tamanho e tempo de processamento.
